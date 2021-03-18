@@ -1,0 +1,3 @@
+-  Hi, I’m @IDavidson-95
+-  I’m interested in rock climbing, tech, gaming, and the internet of things.
+-  I'm currently studying a Bachelors of Computer Science and want to get into a software engineering career path.
